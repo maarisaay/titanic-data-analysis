@@ -1,8 +1,9 @@
 # Titanic Data Analysis
 
 ## Cel projektu
-Celem projektu było zbadanie danych pasażerów statku Titanic i określenie czynników, które najbardziej wpływały na przeżycie w katastrofie.
+- Zbadanie danych pasażerów statku Titanic i określenie czynników, które najbardziej wpływały na przeżycie w katastrofie.
 Analiza obejmowała wstępne poznanie danych, wizualizacje rozkładów oraz interpretację zależności między zmiennymi.
+- Zbudowanie modelu predykcyjnego, który przewiduje **prawdopodobieństwo przeżycia pasażera Titanica** na podstawie jego cech demograficznych i informacji o bilecie. 
 
 ## Dane
 Dane pochodzą z publicznego zbioru Titanic: Machine Learning from Disaster dostępnego na platformie [Kaggle](https://www.kaggle.com/competitions/titanic).
@@ -18,3 +19,5 @@ Dane pochodzą z publicznego zbioru Titanic: Machine Learning from Disaster dost
 - Klasa biletu również miała wpływ - pasażerowie 1 klasy mieli większe szanse przeżycia.
 - Wiek odgrywał rolę - dzieci częściej przeżyły niż dorośli.
 - Dane zawierały brakujące wartości w kolumnach Age, Cabin i Embarked, które należałoby uzupełnić przed modelowaniem.
+
+Projekt został zrealizowany w środowisku **Dataiku DSS**
